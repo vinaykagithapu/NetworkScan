@@ -12,8 +12,7 @@ pip install scapy
 ```
 ### Usage:
 ```
-git clone https://github.com/vinaykagithapu/ShellPhish.git
-cd ShellPhish
-chmod +x shellphish.sh
-./shellphish.sh
+git clone https://github.com/vinaykagithapu/NetworkScan.git
+cd NetworkScan
+sudo python netscan.py -t 10.0.2.1/24
 ```
